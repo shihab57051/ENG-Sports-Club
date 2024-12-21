@@ -62,7 +62,7 @@ header .logo img {
     display: none;
     position: absolute;
     top: 100%; /* Align below the menu icon */
-    left: -190px;
+    left: -180px;
     width: 50vw; /* 50% of the viewport width */
     background-color: #fff7e6;
     box-shadow: ;
